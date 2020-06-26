@@ -1,2 +1,2 @@
-# SSH Key 
-An accessible key part.
+# Nothing of use to you here...
+This repo is a bit boring, its only existance is to make part of a key pair accessible via the internet. Helps with bootstraping of new cloud infrastructure. But for anyone else looking, it's a bit dull!
